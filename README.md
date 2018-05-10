@@ -11,7 +11,7 @@ Technologies used:
 * JS
 
 You can preview the website here: 
-https://drmalina.github.io/Furniture-WebPage/
+https://drmalina.github.io/Frodo-Game/
 
 Enjoy!
 
