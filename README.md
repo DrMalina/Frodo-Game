@@ -14,8 +14,8 @@ https://drmalina.github.io/Frodo-Game/
 Enjoy!
 
 ## EDIT
-As a practice, I have updated this project to ES6 - funcionality stays almost the same, however the code is cleaner.
-Check this repo out: https://github.com/DrMalina/FrodoGame_ES6
+As a practice, I have updated this project to ES6 - funcionality stays almost the same, however the code is cleaner and some bugs are fixed.
+Check this repo out: [ https://github.com/DrMalina/FrodoGame_ES6 ] ( https://vigilant-wilson-703b0e.netlify.com/ )
 
 
 
